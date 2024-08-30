@@ -3,8 +3,7 @@
 <img src="assets/neko_hat.png" width="20%" />
 
 <aside>
-<img src="assets/neko_hat.png" alt="assets/neko_hat.png" width="40px" />
-<b>CV</b>
+<img src="assets/neko_hat.png" alt="assets/neko_hat.png" width="40px" /><b>CV</b>
 
 | **Name** | **DoHwan Kim (neko_hat of TeamH4C)** |
 | --- | --- |
@@ -30,8 +29,7 @@
 <img src="assets/tw0n3.png" width="20%" />
 
 <aside>
-<img src="assets/tw0n3.png"  alt="assets/tw0n3.png" width="40px" />
-<b>CV</b>
+<img src="assets/tw0n3.png"  alt="assets/tw0n3.png" width="40px" /><b>CV</b>
 
 | **Name** | **Han Lee (tw0n3 of N0Named)** |
 | --- | --- |
