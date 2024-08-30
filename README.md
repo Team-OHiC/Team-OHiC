@@ -3,7 +3,7 @@
 <img src="assets/neko_hat.png" width="20%" />
 
 <aside>
-<img src="assets/neko_hat.png" alt="assets/neko_hat.png" width="40px" /><b>CV</b>
+🐈<b>CV</b>
 
 | **Name** | **DoHwan Kim (neko_hat of TeamH4C)** |
 | --- | --- |
